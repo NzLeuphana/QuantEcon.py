@@ -8,7 +8,9 @@ import numpy as np
 from numpy import conj
 from .util import check_random_state
 
-
+"""
+Hello
+"""
 class ARMA:
     r"""
     This class represents scalar ARMA(p, q) processes.
